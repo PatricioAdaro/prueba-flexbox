@@ -33,6 +33,13 @@ main nav{
     padding: 10px;
    
 }
+.lista{
+    color: red;
+    text-decoration: none;
+    font-size: 25px;
+
+     
+}
 main aside{
     background-color: rgb(227, 250, 99);
     flex-grow:1 ;
